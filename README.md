@@ -1,4 +1,4 @@
-# security-server-exercise
+# security playground
 
 To run the server:
 1. Clone repo
